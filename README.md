@@ -2,7 +2,7 @@
 
 
 
-<img align="right" height="300" width="500" alt="" src="Logo.png" />
+<img align="right" height="300" width="400" alt="" src="Logo.png" />
 
 ## About us
 
