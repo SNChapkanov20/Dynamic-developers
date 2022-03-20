@@ -6,7 +6,7 @@
 
 ## About us
 
-- <b>[Раян-Бенедикт Христов](https://github.com/RSHristov20) -> 9B -> Backend Developer and Frontend Developer</b>
+- <b>[Раян Христов](https://github.com/RSHristov20) -> 9B -> Backend Developer and Frontend Developer</b>
 - <b>[Стефан Чапкънов](https://github.com/SNChapkanov20) -> 9B -> SCRUM Trainer</b>
 - <b>[Йордан Жечев](https://github.com/YBZhechev20) -> 9B -> Designer </b>
 
